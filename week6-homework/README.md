@@ -1,4 +1,4 @@
-# week6-homework
+# week6
 
 ## Project setup
 ```
